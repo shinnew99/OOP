@@ -1,5 +1,5 @@
-				Employee
+				   Employee
 		Business Employee		TechnicalEmployee
-		Accountant		SoftwareEngineer
+		Accountant			SoftwareEngineer
 		Bussiness Lead (=manager)	TechnicalLead(=manager)
 					
