@@ -1,0 +1,4 @@
+Main --> Employee / public static int employeeIDCnt --> TechnicalLEad CTO --> <br>
+public TechnicalLead / super(name) --> public SoftwareEngineerS(String name) / super(name,0) --> <br>
+public TechnicalEmployee(String name, int checkins) / super(name, 75000) --> <br>
+public Employee(String name, double baseSalary) / this.name=name / this.baseSalary = baseSalary / this.employeeId = employeeIDCnt / employeeIDCnt++
